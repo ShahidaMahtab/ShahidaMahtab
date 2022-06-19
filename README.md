@@ -30,21 +30,29 @@ I'm a final year student currently pursuing Bachelor of Computer Science and Eng
     <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-    
+## Languages and Tools:
+<p align="center">
+<img src="https://img.shields.io/badge/C-1572B6?style=for-the-badge&logo=C&logoColor=white">
 
-<div float="left">
- <img width="45%" class="img" src="https://github-readme-stats.vercel.app/api?username=ShahidaMahtab&show_icons=true&theme=tokyonight&hide_border=true&locale=en&text_color=ff8b1f&title_color=ffbc1f&bg_color=020000" />
- <img width="45%" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahidaMahtab&layout=compact&show_icons=true&theme=tokyonight&hide_border=true&text_color=ff8b1f&title_color=ffbc1f&bg_color=020000" />
-</div>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Vs_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />    
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShahidaMahtab&show_icons=true&theme=tokyonight&hide_border=true&locale=en&text_color=ff8b1f&title_color=ffbc1f&bg_color=020000" />
+
+ <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahidaMahtab&layout=compact&show_icons=true&theme=tokyonight&hide_border=true&text_color=ff8b1f&title_color=ffbc1f&bg_color=020000" />
+</p> 
+
+<p align = "center"> 
+<img src="https://activity-graph.herokuapp.com/graph?username=animeshbhakat&theme=redical">
+</p>     
+
+
