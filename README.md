@@ -30,6 +30,7 @@ I'm a final year student currently pursuing Bachelor of Computer Science and Eng
     <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 ## Languages and Tools:
 <p align="center">
 <img src="https://img.shields.io/badge/C-1572B6?style=for-the-badge&logo=C&logoColor=white">
