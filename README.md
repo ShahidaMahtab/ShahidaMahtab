@@ -1,4 +1,10 @@
-# Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Shahida Mahtab. 
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="380" height="380" />
+</div>
+
+
+# Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> , I'm Shahida Mahtab. 
 
 
 I'm a final year student currently pursuing Bachelor of Computer Science and Engineering 🎓 from Metropolitan University 🏛. I'm a MERN Stack developer who's always passionate about developing website using react.I love to explore new programming languages and frameworks.💡.I want to be a full stack developer🤓.
