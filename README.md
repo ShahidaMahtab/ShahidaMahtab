@@ -52,7 +52,7 @@ I'm a final year student currently pursuing Bachelor of Computer Science and Eng
 </p> 
 
 <p align = "center"> 
-<img src="https://activity-graph.herokuapp.com/graph?username=animeshbhakat&theme=redical">
+<img src="https://activity-graph.herokuapp.com/graph?username=shahidaMahtab&theme=redical">
 </p>     
 
 
