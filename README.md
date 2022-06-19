@@ -47,9 +47,9 @@ I'm a final year student currently pursuing Bachelor of Computer Science and Eng
 <br />
 <br />    
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ShahidaMahtab&show_icons=true&theme=tokyonight&hide_border=true&locale=en&text_color=ff8b1f&title_color=ffbc1f&bg_color=020000" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=ShahidaMahtab&show_icons=true&theme=tokyonight&hide_border=true&locale=en&text_color=ff8b1f&title_color=ffbc1f&bg_color=020000" />
 
- <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahidaMahtab&layout=compact&show_icons=true&theme=tokyonight&hide_border=true&text_color=ff8b1f&title_color=ffbc1f&bg_color=020000" />
+ <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahidaMahtab&layout=compact&show_icons=true&theme=tokyonight&hide_border=true&text_color=ff8b1f&title_color=ffbc1f&bg_color=020000" />
 </p> 
 
 <p align = "center"> 
