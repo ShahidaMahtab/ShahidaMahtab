@@ -1,6 +1,6 @@
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="380" height="380" />
+<div id="header" align="center" >
+  <img  src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="380" height="380" />
 </div>
 
 
@@ -8,6 +8,8 @@
 
 
 I'm a final year student currently pursuing Bachelor of Computer Science and Engineering 🎓 from Metropolitan University 🏛. I'm a MERN Stack developer who's always passionate about developing website using react.I love to explore new programming languages and frameworks.💡.I want to be a full stack developer🤓.
+<br>
+<br>
 
 
   - 🔭 I’m currently working on a react project.
@@ -18,7 +20,7 @@ I'm a final year student currently pursuing Bachelor of Computer Science and Eng
   - ⚡ Fun fact: I love to read books.
   - 
 ## Connect with me: 
-
+<br>
 <p align = "center">
   <a href ="/#">
     <img src = "https://img.shields.io/twitter/follow/animesh__bhakat?label=Twitter&logo=twitter&style=for-the-badge"/>
@@ -38,6 +40,7 @@ I'm a final year student currently pursuing Bachelor of Computer Science and Eng
 </p>
 
 ## Languages and Tools:
+<br>
 <p align="center">
 <img src="https://img.shields.io/badge/C-1572B6?style=for-the-badge&logo=C&logoColor=white">
 
