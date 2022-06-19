@@ -2,7 +2,7 @@
 
 I'm Shahida Mahtab from Bangladesh and I'm a MERN Stack developer. I really enjoy developing website with React.You can checkout my projects on my portfolio https://shahidamahtabportfolio.netlify.app/
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahidaMahtab&show_icons=true&theme=tokyonight&hide_border=true&locale=en) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahidaMahtab&layout=compact&show_icons=true&theme=tokyonight&hide_border=true&locale=en&card_width=100%)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahidaMahtab&show_icons=true&theme=tokyonight&hide_border=true&locale=en) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahidaMahtab&layout=compact&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/ShahidaMahtab/github-readme-stats)
 
 
 Here are some ideas to get you started:
