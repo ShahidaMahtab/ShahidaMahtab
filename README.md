@@ -53,7 +53,7 @@ I'm a final year student currently pursuing Bachelor of Computer Science and Eng
 </p> 
 
 <p align = "center"> 
-<img src="https://activity-graph.herokuapp.com/graph?username=shahidaMahtab&theme=redical&theme=tokyonight&hide_border=true&text_color=ff8b1f&title_color=ffbc1f&bg_color=020000">
+<img src="https://activity-graph.herokuapp.com/graph?username=shahidaMahtab&theme=tokyonight&hide_border=true&text_color=ff8b1f&title_color=ffbc1f&bg_color=020000">
 </p>     
 
 
