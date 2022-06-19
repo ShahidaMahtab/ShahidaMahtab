@@ -4,7 +4,9 @@
 </div>
 
 
-# Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> , I'm Shahida Mahtab. 
+
+ # <div align="center"> Hi there <img  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100"> I'm Shahida Mahtab.</div> 
+
 
 
 I'm a final year student currently pursuing Bachelor of Computer Science and Engineering 🎓 from Metropolitan University 🏛. I'm a MERN Stack developer who's always passionate about developing website using react.I love to explore new programming languages and frameworks.💡.I want to be a full stack developer🤓.
@@ -18,7 +20,8 @@ I'm a final year student currently pursuing Bachelor of Computer Science and Eng
   - 💬 Ask me about HTML, CSS, JS, React.
   - 🥅 2022 Goals: Want to be a Full Stack Developer
   - ⚡ Fun fact: I love to read books.
-  - 
+  
+  <br> 
 ## Connect with me: 
 <br>
 <p align = "center">
@@ -53,7 +56,7 @@ I'm a final year student currently pursuing Bachelor of Computer Science and Eng
 <img src="https://img.shields.io/badge/Vs_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 
-<br />
+##Github Stats:
 <br />    
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShahidaMahtab&show_icons=true&theme=tokyonight&hide_border=true&locale=en&text_color=ff8b1f&title_color=ffbc1f&bg_color=020000" />
