@@ -22,7 +22,9 @@ I'm a final year student currently pursuing Bachelor of Computer Science and Eng
   - ⚡ Fun fact: I love to read books.
   
   <br> 
+  
 ## Connect with me: 
+
 <br>
 <p align = "center">
   <a href ="/#">
@@ -45,8 +47,6 @@ I'm a final year student currently pursuing Bachelor of Computer Science and Eng
 ## Languages and Tools:
 <br>
 <p align="center">
-<img src="https://img.shields.io/badge/C-1572B6?style=for-the-badge&logo=C&logoColor=white">
-
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -56,7 +56,7 @@ I'm a final year student currently pursuing Bachelor of Computer Science and Eng
 <img src="https://img.shields.io/badge/Vs_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 
-##Github Stats:
+## Github Stats:
 <br />    
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShahidaMahtab&show_icons=true&theme=tokyonight&hide_border=true&locale=en&text_color=ff8b1f&title_color=ffbc1f&bg_color=020000" />
