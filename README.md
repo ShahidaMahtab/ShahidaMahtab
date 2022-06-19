@@ -1,6 +1,8 @@
-### Hi there 👋
+# Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Shahida Mahtab. 
 
-I'm Shahida Mahtab from Bangladesh and I'm a MERN Stack developer. I really enjoy developing website with React.You can checkout my projects on my portfolio https://shahidamahtabportfolio.netlify.app/
+
+I'm a final year student currently pursuing Bachelor of Computer Science and Engineering 🎓 from Metropolitan University 🏛. I'm a MERN Stack developer who's always passionate about developing website using react.I love to explore new programming languages and frameworks.💡.I want to be a full stack developer🤓.
+
 
 
 <div float="left">
