@@ -33,9 +33,6 @@ I'm a final year student currently pursuing Bachelor of Computer Science and Eng
   <a href ="https://www.facebook.com/profile.php?id=100011036791575">
     <img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href ="https://www.instagram.com/marwasalvatore/">
-    <img src = "https://img.shields.io/badge/Instagram-e95950?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
   <a href ="https://www.linkedin.com/in/shahida-mahtab-a994521b2/">
     <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
