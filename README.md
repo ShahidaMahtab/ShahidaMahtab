@@ -8,7 +8,7 @@
 
 ### 🚀 About Me  
 - 💻 Junior Web Developer at **YoTech** (Valt), Sylhet  
-- 🎓 Recent graduate in Computer Science & Engineering from **Metropolitan University, Sylhet** (CGPA: 3.78)  
+- 🎓 Recent graduate in Computer Science & Engineering from **Metropolitan University, Sylhet** 
 - 🌱 Passionate MERN stack developer with experience in building responsive, user-friendly applications.  
 - 📚 Avid learner exploring new frameworks and technologies.  
 
