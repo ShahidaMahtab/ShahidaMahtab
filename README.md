@@ -14,11 +14,9 @@ I'm a final year student currently pursuing Bachelor of Computer Science and Eng
 <br>
 
 
-  - 🔭 I’m currently working on a react project.
   - 🌱 I’m currently learning ...
   - 🤔 I’m looking for a remote job.
   - 💬 Ask me about HTML, CSS, JS, React.
-  - 🥅 2022 Goals: Want to be a Full Stack Developer
   - ⚡ Fun fact: I love to read books.
   
   <br> 
