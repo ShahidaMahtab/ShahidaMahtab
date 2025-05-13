@@ -15,7 +15,7 @@
 ---
 
 ### 💻 Skills  
-**Frontend**: React, Angular, HTML5, CSS3, JavaScript (ES6), SCSS, TailwindCSS, Bootstrap  
+**Frontend**: React, Next, Angular, HTML5, CSS3, JavaScript (ES6), SCSS, TailwindCSS, Bootstrap  
 **Backend**: Node.js, Express.js, MongoDB, Mongoose  
 **Tools & Platforms**: Git, GitHub, Firebase, Netlify, Heroku, VS Code, Figma  
 **Hosting**: Firebase, Netlify, Vercel  
